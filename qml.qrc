@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Firstscreen.qml</file>
+        <file>Loginpage.qml</file>
+        <file>Registerpage.qml</file>
+        <file>Welcomepage.qml</file>
+        <file>Forgetpasswordpage.qml</file>
+        <file>ApplicationImages/welimg1.png</file>
+        <file>ApplicationImages/Logo.png</file>
+        <file>ApplicationImages/pragna.png</file>
+        <file>ApplicationImages/welcomepageimg.jpeg</file>
+        <file>ApplicationImages/welimg2.png</file>
+        <file>ApplicationImages/welimg3.png</file>
+        <file>ApplicationImages/welcomebackgroundimg.jpeg</file>
+    </qresource>
+</RCC>
